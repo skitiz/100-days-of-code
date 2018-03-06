@@ -10,11 +10,14 @@
 
 ### Day 1 : March 6, 2018
 
-**Today's Progress**: Started working on openpyxl at work for Excel manipulation using Python.
+**Today's Progress**: Started working on openpyxl at work for Excel manipulation using Python. Worked on the Text-Mining Project.
 
-**Thoughts**:
+**Thoughts**: Getting real good at Python.
 
-**Link to work**: 
+**Link to work**: https://github.com/skitiz/ExcelPython/commit/9846858eff91d5b50b25b9aa983ebee350b3f18b
+https://github.com/skitiz/cranfield/commit/8398db6e97f6d07e70a0ca81f5ee62dbcf94ed32
+
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
