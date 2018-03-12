@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0 : March 5, 2018
+### Day 0 : March 11, 2018
 
-**Today's Progress**: Started working on TypeScript. Step one on the developer roadmap.
+<!-- **Today's Progress**: Started working on TypeScript. Step one on the developer roadmap.
 
 **Thoughts**: Will take me some time to get used to TypeScript.
 
@@ -15,7 +15,7 @@
 **Thoughts**: Getting real good at Python.
 
 **Link to work**: https://github.com/skitiz/ExcelPython/commit/9846858eff91d5b50b25b9aa983ebee350b3f18b
-https://github.com/skitiz/cranfield/commit/8398db6e97f6d07e70a0ca81f5ee62dbcf94ed32
+https://github.com/skitiz/cranfield/commit/8398db6e97f6d07e70a0ca81f5ee62dbcf94ed32 -->
 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
